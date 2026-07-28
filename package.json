@@ -1,0 +1,9 @@
+{
+  "name": "fcei-live-ready-platform-update",
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test:flow": "node tests/acceptance-flow.mjs"
+  }
+}

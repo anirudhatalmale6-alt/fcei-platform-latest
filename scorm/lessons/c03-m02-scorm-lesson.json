@@ -1,0 +1,175 @@
+{
+  "lessonId": "SCORM-C03-M02",
+  "courseId": "C03",
+  "moduleId": "C03-M02",
+  "title": "Purposeful Play and Exploration",
+  "version": "live-template-v2",
+  "templateFlow": [
+    "Welcome and Evidence Portfolio Roadmap",
+    "Turning Values into Daily Practice",
+    "Designing Support Core Extension Pathways",
+    "Synthesizing Evidence and Embedding Improvements",
+    "Final Performance and Evidence Check",
+    "Wrap Up and Next Steps"
+  ],
+  "lessonSections": [
+    {
+      "sectionId": "welcome",
+      "title": "Welcome and Evidence Portfolio Roadmap",
+      "content": "Welcome to C03-M02 - Purposeful Play and Exploration. This lesson explains the portfolio evidence you will produce and how the module links to the FCEI improvement cycle.",
+      "activity": {
+        "type": "roadmap_acknowledgement",
+        "prompt": "Review the module outcome and tick that you understand what evidence you need to produce."
+      }
+    },
+    {
+      "sectionId": "principle",
+      "title": "Turning Values into Daily Practice",
+      "content": "Purposeful Play and Exploration is visible when the principle can be seen in learner experience, educator or leader behaviour, and an artefact that proves what changed.",
+      "activity": {
+        "type": "principle_to_practice",
+        "prompt": "Write one observable behaviour that would show this principle in your classroom, team or institution."
+      }
+    },
+    {
+      "sectionId": "pathways",
+      "title": "Designing Support Core Extension Pathways",
+      "content": "Active Learning Route Planner",
+      "activity": {
+        "type": "support_core_extension_planner",
+        "prompt": "Plan one support route, one core route and one extension route for the same learning aim."
+      }
+    },
+    {
+      "sectionId": "evidence",
+      "title": "Synthesizing Evidence and Embedding Improvements",
+      "content": "Upload active task plan + participation or explanation evidence. Add date, context, anonymisation note where learner data is used, and a 100-word explanation of what the evidence shows.",
+      "activity": {
+        "type": "evidence_synthesis",
+        "prompt": "Explain what your artefact shows and what should improve next."
+      }
+    },
+    {
+      "sectionId": "check",
+      "title": "Final Performance and Evidence Check",
+      "content": "Complete the three-question knowledge check and final performance task. The module is not complete until evidence, reflection and the Transferability Filter are submitted.",
+      "activity": {
+        "type": "mcq_and_performance",
+        "quiz": [
+          {
+            "id": "C03-M02-Q1",
+            "question": "What is the most responsible first move when applying Purposeful Play and Exploration in a new local context?",
+            "options": [
+              "Copy the Finnish practice exactly without change.",
+              "Test one manageable action, collect evidence and adapt before scaling.",
+              "Launch a whole-school reform immediately.",
+              "Wait until every condition is perfect before trying anything."
+            ],
+            "correctIndex": 1,
+            "rationale": "The best answer protects learners and staff through a bounded evidence-first trial."
+          },
+          {
+            "id": "C03-M02-Q2",
+            "question": "Which evidence best proves that Purposeful Play and Exploration changed practice?",
+            "options": [
+              "Attendance or page views only.",
+              "The required artefact is completed and linked to a reflection: active task plan + participation or explanation evidence.",
+              "A general statement that participants enjoyed the topic.",
+              "A certificate issued before evidence is uploaded."
+            ],
+            "correctIndex": 1,
+            "rationale": "FCEI completion must show implementation, evidence and reflection, not participation only."
+          },
+          {
+            "id": "C03-M02-Q3",
+            "question": "What should be avoided when implementing Purposeful Play and Exploration?",
+            "options": [
+              "Adding activity, movement or play without a learning aim or evidence of understanding.",
+              "Using local evidence before scaling.",
+              "Keeping the same learning aim while adapting access or process.",
+              "Writing the change into a local plan or routine."
+            ],
+            "correctIndex": 0,
+            "rationale": "This distractor is the exact misconception the module is designed to correct."
+          }
+        ],
+        "performanceTask": "In your own context, redesign one passive segment into an active learning routine linked to the objective. Keep the action small enough to complete, review and improve without requiring whole-school rollout first."
+      }
+    },
+    {
+      "sectionId": "wrap",
+      "title": "Wrap Up and Next Steps",
+      "content": "Review your completion checklist and prepare to continue to the next module.",
+      "activity": {
+        "type": "completion_checklist",
+        "requiredFlags": [
+          "contentOpened",
+          "resourcesAccessed",
+          "quizPassed",
+          "actionTaskSubmitted",
+          "evidenceSubmitted",
+          "reflectionSubmitted",
+          "transferabilitySubmitted",
+          "checklistCompleted"
+        ]
+      }
+    }
+  ],
+  "completionRule": {
+    "contentOpened": true,
+    "resourcesAccessed": true,
+    "quizPassed": true,
+    "actionTaskSubmitted": true,
+    "evidenceSubmitted": true,
+    "reflectionSubmitted": true,
+    "transferabilitySubmitted": true,
+    "checklistCompleted": true
+  },
+  "transferabilitySteps": [
+    "principle",
+    "localCondition",
+    "action",
+    "evidence",
+    "process",
+    "structure",
+    "syllabiSystem"
+  ],
+  "resources": [
+    {
+      "id": "RES-C03-M02-01",
+      "type": "concept_brief",
+      "title": "C3.2 Purposeful Play and Exploration - Concept Brief and Finnish Anchor",
+      "fileUrl": "/api/resources/RES-C03-M02-01/download"
+    },
+    {
+      "id": "RES-C03-M02-02",
+      "type": "scenario_worksheet",
+      "title": "C3.2 Purposeful Play and Exploration - Scenario Diagnosis Worksheet",
+      "fileUrl": "/api/resources/RES-C03-M02-02/download"
+    },
+    {
+      "id": "RES-C03-M02-03",
+      "type": "one_change_planner",
+      "title": "C3.2 Purposeful Play and Exploration - Active Learning Route Planner Template",
+      "fileUrl": "/api/resources/RES-C03-M02-03/download"
+    },
+    {
+      "id": "RES-C03-M02-04",
+      "type": "evidence_template",
+      "title": "C3.2 Purposeful Play and Exploration - Evidence Upload Template: active task plan + participation or explanation evidence",
+      "fileUrl": "/api/resources/RES-C03-M02-04/download"
+    },
+    {
+      "id": "RES-C03-M02-05",
+      "type": "transferability_filter",
+      "title": "C3.2 Purposeful Play and Exploration - Transferability Filter Reflection Sheet",
+      "fileUrl": "/api/resources/RES-C03-M02-05/download"
+    },
+    {
+      "id": "RES-C03-M02-06",
+      "type": "portfolio_checklist",
+      "title": "C3.2 Purposeful Play and Exploration - Portfolio Checklist and Completion Rubric",
+      "fileUrl": "/api/resources/RES-C03-M02-06/download"
+    }
+  ]
+}

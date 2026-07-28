@@ -1,0 +1,32 @@
+{
+  "users": [],
+  "sessions": [],
+  "orders": [],
+  "payments": [],
+  "entitlements": [],
+  "enrolments": [],
+  "progress": [],
+  "resourceAccess": [],
+  "quizAttempts": [],
+  "actionTasks": [],
+  "evidenceSubmissions": [],
+  "reflections": [],
+  "transferabilityResponses": [],
+  "certificates": [],
+  "toolkitDownloads": [],
+  "bookings": [],
+  "scormRegistrations": [],
+  "scormRuntime": [],
+  "cmsPages": {
+    "landing": {
+      "heroTitle": "Finnish-inspired teacher training for evidence-led school improvement",
+      "heroSubtitle": "Explore practical FCEI courses built around equity, trust, wellbeing, agency, support and evidence."
+    },
+    "pricing": {
+      "title": "Choose your FCEI pathway",
+      "subtitle": "Single courses, bundles, school licences and downloadable toolkits."
+    }
+  },
+  "cookieConsent": [],
+  "auditLogs": []
+}

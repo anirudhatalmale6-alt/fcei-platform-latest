@@ -1,0 +1,20 @@
+{
+  "note": "Public text snippets visible on fcei.eu were placed in data/seed.json under siteCopy as editable CMS seed values. Confirm ownership before using full verbatim copy beyond these snippets.",
+  "sourcePages": [
+    "https://www.fcei.eu/",
+    "https://www.fcei.eu/find-course",
+    "https://www.fcei.eu/dashboard",
+    "https://www.fcei.eu/admin.html",
+    "https://www.fcei.eu/booking.html"
+  ],
+  "fields": [
+    "source",
+    "capturedAt",
+    "global",
+    "home",
+    "findCourse",
+    "dashboard",
+    "booking",
+    "admin"
+  ]
+}
